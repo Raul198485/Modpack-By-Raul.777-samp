@@ -1,0 +1,46 @@
+21/03/2025 19:25:01.950 Log started.
+21/03/2025 19:25:01.951 Unprotecting memory region '.text': 0x00001000 (size: 0x00456000)
+21/03/2025 19:25:01.951 Unprotecting memory region '.rdata': 0x00458000 (size: 0x0004C000)
+21/03/2025 19:25:01.951 Unprotecting memory region '.text': 0x008B1000 (size: 0x0064A000)
+21/03/2025 19:25:01.951 Unloading plugins...
+21/03/2025 19:25:01.951 Loading plugin cleo/CLEO+.cleo
+21/03/2025 19:25:01.953 Loading plugin cleo/FileSystemOperations.cleo
+21/03/2025 19:25:01.953 Loading plugin cleo/IniFiles.cleo
+21/03/2025 19:25:01.954 Loading plugin cleo/IntOperations.cleo
+21/03/2025 19:25:01.955 Started on game of version: SA 1.0 us
+21/03/2025 19:25:01.955 Injecting MenuStatusNotifier...
+21/03/2025 19:25:01.955 Replacing call: 0x0057B9FD
+21/03/2025 19:25:01.955 Injecting DmaFix...
+21/03/2025 19:25:01.955 Replacing call: 0x0053E981
+21/03/2025 19:25:01.955 Injecting TextManager...
+21/03/2025 19:25:01.955 Injecting function at: 0x006A0050
+21/03/2025 19:25:01.955 Injecting SoundSystem...
+21/03/2025 19:25:01.955 Replacing call: 0x007487A8
+21/03/2025 19:25:01.956 Injecting CustomOpcodeSystem...
+21/03/2025 19:25:01.956 Injecting ScriptEngine...
+21/03/2025 19:25:01.956 Replacing call: 0x0046A21B
+21/03/2025 19:25:01.956 Replacing call: 0x0058D552
+21/03/2025 19:25:01.956 Replacing call: 0x0058FCE4
+21/03/2025 19:25:01.956 Replacing call: 0x0053BDD7
+21/03/2025 19:25:01.956 Replacing call: 0x005BA340
+21/03/2025 19:25:01.956 Replacing call: 0x005D4FD7
+21/03/2025 19:25:01.956 Replacing call: 0x005D18F0
+21/03/2025 19:25:01.956 Replacing call: 0x005D14D5
+21/03/2025 19:25:01.956 Injecting function at: 0x004667DB
+21/03/2025 19:25:02.478 Creating main window...
+21/03/2025 19:25:02.483 Found sound device 0: No sound
+21/03/2025 19:25:02.483 Found sound device 1 (default): Speakers / Headphones (Realtek Audio)
+21/03/2025 19:25:02.483 Found sound device 2: Speakers (Steam Streaming Speakers)
+21/03/2025 19:25:02.483 Found sound device 3: Speakers (Steam Streaming Microphone)
+21/03/2025 19:25:02.483 On system found 4 devices, 4 enabled devices, assuming device to use: 1 (Speakers / Headphones (Realtek Audio))
+21/03/2025 19:25:02.521 SoundSystem initialized
+21/03/2025 19:25:02.525 Floating-point audio supported!
+21/03/2025 19:25:02.527 Audio hardware acceleration disabled (no EAX)
+21/03/2025 19:25:12.482 Scripts exclusively initialized
+21/03/2025 19:25:12.487 Deleting dynamic fxts...
+21/03/2025 19:25:12.487 Cleaning up script data... 0 files, 0 libs, 0 file scans, 0 allocations...
+21/03/2025 19:25:12.487 Searching for cleo scripts
+21/03/2025 19:25:12.487 Loading custom script ..\modloader\sky box\cleo\cleoskybox.cs...
+21/03/2025 19:25:12.488 Registering custom script named cleosky
+21/03/2025 19:25:12.488 Loading custom script ..\modloader\sky box\cleo\timecyc.cs...
+21/03/2025 19:25:12.488 Registering custom script named timecyc
